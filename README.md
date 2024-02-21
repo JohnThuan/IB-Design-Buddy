@@ -1,2 +1,0 @@
-# IBDesignBuddy
-johnthuan.github.io
