@@ -1,5 +1,5 @@
  .u-section-1 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.55), rgba(0,0,0,0.55)), url('/images/workshop-1024x576.jpg');
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.55), rgba(0,0,0,0.55)), url('images/workshop-1024x576.jpg');
   background-position: 50% 50%;
 }
 
@@ -284,7 +284,7 @@
 
 .u-section-4 .u-image-1 {
   min-height: 432px;
-  background-image: url("/images/872bda4e4b9fab774cc4447851f29e3f.jpg");
+  background-image: url("images/872bda4e4b9fab774cc4447851f29e3f.jpg");
   background-position: 50% 50%;
 }
 
@@ -401,7 +401,7 @@
 
 .u-section-5 .u-image-1 {
   min-height: 432px;
-  background-image: url("/images/Untitled-683--1024px-1024--683px-2023-07-12T154605.688.jpg");
+  background-image: url("images/Untitled-683--1024px-1024--683px-2023-07-12T154605.688.jpg");
   background-position: 50% 50%;
 }
 
@@ -523,7 +523,7 @@
 
 .u-section-6 .u-image-1 {
   min-height: 432px;
-  background-image: url("/images/Competition_Model_NGV_Candalepus_Associates_13.jpeg");
+  background-image: url("images/Competition_Model_NGV_Candalepus_Associates_13.jpeg");
   background-position: 50% 50%;
 }
 
@@ -649,7 +649,7 @@
 
 .u-section-7 .u-image-1 {
   min-height: 432px;
-  background-image: url("/images/640px-Tesla_auto_bots.jpg");
+  background-image: url("images/640px-Tesla_auto_bots.jpg");
   background-position: 50% 50%;
 }
 
@@ -771,7 +771,7 @@
 
 .u-section-8 .u-image-1 {
   min-height: 432px;
-  background-image: url("/images/iphone_tout_a.jpg");
+  background-image: url("images/iphone_tout_a.jpg");
   background-position: 50% 50%;
 }
 
@@ -893,7 +893,7 @@
 
 .u-section-9 .u-image-1 {
   min-height: 432px;
-  background-image: url("/images/Design-Classic.png");
+  background-image: url("images/Design-Classic.png");
   background-position: 50% 50%;
 }
 
