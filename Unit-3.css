@@ -1,5 +1,5 @@
  .u-section-1 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.55), rgba(0,0,0,0.55)), url('images/8bc93262933951.5aa03c11d7968.jpg');
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.55), rgba(0,0,0,0.55)), url('/images/8bc93262933951.5aa03c11d7968.jpg');
   background-position: 50% 50%;
 }
 
@@ -62,7 +62,7 @@
 
 .u-section-2 .u-image-1 {
   min-height: 400px;
-  background-image: url("images/http_www.carbodydesign.commedia2013042010-Renault-ZOE-Concept-Interior-Design-Sketches-720x312.jpg");
+  background-image: url("/images/http_www.carbodydesign.commedia2013042010-Renault-ZOE-Concept-Interior-Design-Sketches-720x312.jpg");
   background-position: 50% 50%;
 }
 
@@ -287,7 +287,7 @@
 
 .u-section-4 .u-image-1 {
   min-height: 400px;
-  background-image: url("images/367deb640438981874f9ab5d4508e29d.jpg");
+  background-image: url("/images/367deb640438981874f9ab5d4508e29d.jpg");
   background-position: 50% 50%;
 }
 
@@ -407,7 +407,7 @@
 
 .u-section-5 .u-image-1 {
   min-height: 419px;
-  background-image: url("images/Screenshot2024-02-17175203.png");
+  background-image: url("/images/Screenshot2024-02-17175203.png");
   background-position: 50% 50%;
 }
 
@@ -585,7 +585,7 @@
 
 .u-section-6 .u-image-1 {
   min-height: 416px;
-  background-image: url("images/EmbeddedImage1.png");
+  background-image: url("/images/EmbeddedImage1.png");
   background-position: 50% 50%;
 }
 
@@ -758,7 +758,7 @@
 
 .u-section-7 .u-image-1 {
   min-height: 416px;
-  background-image: url("images/Screenshot2024-02-17175523.png");
+  background-image: url("/images/Screenshot2024-02-17175523.png");
   background-position: 50% 50%;
 }
 
@@ -931,7 +931,7 @@
 
 .u-section-8 .u-image-1 {
   min-height: 416px;
-  background-image: url("images/Screenshot2024-02-17175643.png");
+  background-image: url("/images/Screenshot2024-02-17175643.png");
   background-position: 50% 50%;
 }
 
@@ -1088,7 +1088,7 @@
 
 .u-section-9 .u-image-1 {
   min-height: 400px;
-  background-image: url("images/d6f01bcdd8a268de25ddf8491567c646.jpg");
+  background-image: url("/images/d6f01bcdd8a268de25ddf8491567c646.jpg");
   background-position: 50% 50%;
 }
 
@@ -1205,7 +1205,7 @@
 
 .u-section-10 .u-image-1 {
   min-height: 655px;
-  background-image: url("images/Screenshot2024-02-17180235.png");
+  background-image: url("/images/Screenshot2024-02-17180235.png");
   background-position: 50% 50%;
 }
 
@@ -1303,7 +1303,7 @@
 
 .u-section-11 .u-image-1 {
   min-height: 400px;
-  background-image: url("images/Screenshot2024-03-01202912.png");
+  background-image: url("/images/Screenshot2024-03-01202912.png");
   background-position: 50% 50%;
 }
 
@@ -1692,7 +1692,7 @@
 
 .u-section-14 .u-image-1 {
   min-height: 400px;
-  background-image: url("images/image-1.png");
+  background-image: url("/images/image-1.png");
   background-position: 50% 50%;
 }
 
@@ -1981,7 +1981,7 @@
 
 .u-section-16 .u-image-1 {
   min-height: 419px;
-  background-image: url("images/image-5.png");
+  background-image: url("/images/image-5.png");
   background-position: 50% 50%;
 }
 
