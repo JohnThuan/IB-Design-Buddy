@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>IB Design Buddy</title>
+  <link rel="stylesheet" href="styles.css">
+  <script defer src="script.js"></script>
+</head>
+<body>
+  <header class="navbar">
+    <div class="logo">
+      <img src="images/logo.png" alt="AISVN Logo">
+      <h1>IB Design Buddy</h1>
+    </div>
+    <nav>
+      <a href="#">Home</a>
+      <span class="school-name">AISVN</span>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <div class="hero-image">
+        <img src="images/hero.jpg" alt="Design Technology Background">
+    </div>
+    <h1>IB Design & Technology</h1>
+    <p>Made by AISVN students for AISVN students</p>
+    <p><strong>Congrats to Class of 2024 for graduating!</strong></p>
+    <p><strong>Go Seniors!</strong></p>
+    <div class="school-spirit">
+      <span class="phoenix">🦅</span>
+      <p class="motto">Go Eagles!</p>
+    </div>
+  </section>
+
+  <section class="intro">
+    <h2>Struggling with Design & Technology in the IB?</h2>
+    <p>We might be the solution for you!</p>
+    <img src="images/student.jpg" alt="Student studying">
+    <p>
+      Greetings, I'm John, and you might recognize me as a senior in school! I'm a seasoned DP2 Design student with an impressive four-year journey in this dynamic course.
+      To navigate the intricacies of this challenging curriculum, I've crafted IB Design Buddy,an invaluable resource
+      designed to be your guiding light during the content-rich DP experience. 
+    </p>
+    <p><strong>(Don't be shy to say hi if you see me on campus!!)</strong></p>
+
+  </section>
+
+  <section class="features">
+    <h2>What do YOU get from IBDesignBuddy?</h2>
+    <div class="features-grid">
+      <div>
+        <h3>Revision Material</h3>
+        <p>Notes from all 6 SL units from the most updated Design & Technology syllabus in the IB DP program.</p>
+      </div>
+      <div>
+        <h3>Past Papers</h3>
+        <p>I've scoured the internet to find real IB past papers for you to use! I find this to be the best way to study :)</p>
+      </div>
+      <div>
+        <h3>IA Guides</h3>
+        <p>Guidance for the most challenging part of the course, assisting you along your IA journey.</p>
+      </div>
+    </div>
+  </section>
+  
+  <section class="units">
+    <h2>Course Units</h2>
+    <div class="units-grid">
+      <a href="Unit1/unit1.html" class="unit-card">
+        <h3>Unit 1: Human Factors and Ergonomics</h3>
+        <p>Explore the relationship between products, users, and environments.</p>
+      </a>
+
+      <a href="Unit2/unit2.html" class="unit-card">
+        
+        <h3>Unit 2: Resource Management and Sustainable Production</h3>
+        <p>Learn about sustainable design and resource management.</p>
+      </a>
+      <a href="Unit3/unit3.html" class="unit-card">
+        
+        <h3>Unit 3: Modelling</h3>
+        <p>Master various modeling techniques and their applications in design.</p>
+      </a>
+
+      <a href="Unit4/unit4.html" class="unit-card">
+        <h3>Unit 4: Raw Material to Final Product</h3>
+        <p>Understand the journey from material selection to product completion.</p>
+      </a>
+
+      <a href="Unit5/unit5.html" class="unit-card">
+        <h3>Unit 5: Innovation and Design</h3>
+        <p>Discover the principles of innovative design and creative problem-solving.</p>
+      </a>
+
+      <a href="Unit6/unit6.html" class="unit-card">
+        <h3>Unit 6: Classic Design</h3>
+        <p>Study influential designs and their impact on modern design principles.</p>
+      </a>
+    </div>
+  </section>
+
+  <section class="resources">
+    <h2>Study Resources</h2>
+    <div class="resources-container">
+      <div class="resource-card">       
+        <h3>Design IA Guide</h3>  
+        <p>Complete walkthrough of the Internal Assessment process, including templates, examples, and marking criteria.</p>
+        <a href="Design_IA/designia.html" class="btn">Access IA Guide</a>
+      </div>
+
+      <div class="resource-card">     
+        <h3>Past Papers</h3>
+        <p>Comprehensive collection of previous IB Design & Technology examination papers with marking schemes.</p>
+        <a href="Past_Papers/pastpapers.html" class="btn">View Past Papers</a>
+      </div>
+    </div>
+  </section>
+
+  <div class="chat-widget" id="chatWidget">
+    <div class="chat-header" id="chatHeader">
+        <h3>AISVN Design Buddy 🦅</h3>
+        <button class="minimize-btn" id="minimizeBtn">−</button>
+    </div>
+    <div class="chat-body" id="chatBody">
+        <div class="chat-messages" id="chatMessages">
+            <div class="message bot">
+                Xin chào! Hello! I'm your AISVN Design Buddy. How can I help you today?
+            </div>
+        </div>
+        <div class="prompt-buttons">
+            <button class="prompt-btn" data-question="What is the IA?">About the IA</button>
+            <button class="prompt-btn" data-question="How are exams structured?">Exam Structure</button>
+            <button class="prompt-btn" data-question="What units are covered?">Course Units</button>
+            <button class="prompt-btn" data-question="Tell me about AISVN Design">Our Design Program</button>
+        </div>
+    </div>
+  </div>
+</body>
+</html>
